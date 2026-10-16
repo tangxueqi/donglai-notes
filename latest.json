@@ -1,1 +1,12 @@
-{"versionName":"1.44","versionCode":45,"url":"https://github.com/tangxueqi/donglai-notes/releases/download/v1.44/donglai-v1.44.apk","urls":["https://ghfast.top/https://github.com/tangxueqi/donglai-notes/releases/download/v1.44/donglai-v1.44.apk","https://gh-proxy.com/https://github.com/tangxueqi/donglai-notes/releases/download/v1.44/donglai-v1.44.apk","https://github.com/tangxueqi/donglai-notes/releases/download/v1.44/donglai-v1.44.apk"],"notes":"东来笔记 1.44","minCode":1}
+{
+  "versionName": "1.44",
+  "versionCode": 45,
+  "url": "https://github.com/tangxueqi/donglai-notes/releases/download/v1.44/donglai-v1.44.apk",
+  "urls": [
+    "https://ghfast.top/https://github.com/tangxueqi/donglai-notes/releases/download/v1.44/donglai-v1.44.apk",
+    "https://gh-proxy.com/https://github.com/tangxueqi/donglai-notes/releases/download/v1.44/donglai-v1.44.apk",
+    "https://github.com/tangxueqi/donglai-notes/releases/download/v1.44/donglai-v1.44.apk"
+  ],
+  "notes": "新增成本单元图片识别：拍照销售清单自动提取 商品名称/型号/单价，校对后一键导入或导出 TXT；首次需在 设置 → 图片识别 填免费 OCR Key",
+  "minCode": 1
+}
