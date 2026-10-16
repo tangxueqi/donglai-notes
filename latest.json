@@ -1,12 +1,1 @@
-{
-  "versionName": "1.46",
-  "versionCode": 47,
-  "url": "https://github.com/tangxueqi/donglai-notes/releases/download/v1.46/donglai-v1.46.apk",
-  "urls": [
-    "https://ghfast.top/https://github.com/tangxueqi/donglai-notes/releases/download/v1.46/donglai-v1.46.apk",
-    "https://gh-proxy.com/https://github.com/tangxueqi/donglai-notes/releases/download/v1.46/donglai-v1.46.apk",
-    "https://github.com/tangxueqi/donglai-notes/releases/download/v1.46/donglai-v1.46.apk"
-  ],
-  "notes": "修复图片识别把大写合计行当成商品（合计行按大写金额字识别丢弃）；修复名称结尾单位字误剥",
-  "minCode": 1
-}
+{"versionName":"1.47","versionCode":48,"url":"https://github.com/tangxueqi/donglai-notes/releases/download/v1.47/donglai-v1.47.apk","urls":["https://ghfast.top/https://github.com/tangxueqi/donglai-notes/releases/download/v1.47/donglai-v1.47.apk","https://gh-proxy.com/https://github.com/tangxueqi/donglai-notes/releases/download/v1.47/donglai-v1.47.apk","https://github.com/tangxueqi/donglai-notes/releases/download/v1.47/donglai-v1.47.apk"],"notes":"东来笔记 1.47","minCode":1}
