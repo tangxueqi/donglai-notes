@@ -1,1 +1,12 @@
-{"versionName":"1.45","versionCode":46,"url":"https://github.com/tangxueqi/donglai-notes/releases/download/v1.45/donglai-v1.45.apk","urls":["https://ghfast.top/https://github.com/tangxueqi/donglai-notes/releases/download/v1.45/donglai-v1.45.apk","https://gh-proxy.com/https://github.com/tangxueqi/donglai-notes/releases/download/v1.45/donglai-v1.45.apk","https://github.com/tangxueqi/donglai-notes/releases/download/v1.45/donglai-v1.45.apk"],"notes":"东来笔记 1.45","minCode":1}
+{
+  "versionName": "1.45",
+  "versionCode": 46,
+  "url": "https://github.com/tangxueqi/donglai-notes/releases/download/v1.45/donglai-v1.45.apk",
+  "urls": [
+    "https://ghfast.top/https://github.com/tangxueqi/donglai-notes/releases/download/v1.45/donglai-v1.45.apk",
+    "https://gh-proxy.com/https://github.com/tangxueqi/donglai-notes/releases/download/v1.45/donglai-v1.45.apk",
+    "https://github.com/tangxueqi/donglai-notes/releases/download/v1.45/donglai-v1.45.apk"
+  ],
+  "notes": "修复图片识别漏商品与价格认错（型号数字不再当单价）；新增文本批量导入成本的涨价确认/降价直接覆盖规则",
+  "minCode": 1
+}
