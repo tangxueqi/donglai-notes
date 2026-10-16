@@ -1,1 +1,12 @@
-{"versionName":"1.47","versionCode":48,"url":"https://github.com/tangxueqi/donglai-notes/releases/download/v1.47/donglai-v1.47.apk","urls":["https://ghfast.top/https://github.com/tangxueqi/donglai-notes/releases/download/v1.47/donglai-v1.47.apk","https://gh-proxy.com/https://github.com/tangxueqi/donglai-notes/releases/download/v1.47/donglai-v1.47.apk","https://github.com/tangxueqi/donglai-notes/releases/download/v1.47/donglai-v1.47.apk"],"notes":"东来笔记 1.47","minCode":1}
+{
+  "versionName": "1.47",
+  "versionCode": 48,
+  "url": "https://github.com/tangxueqi/donglai-notes/releases/download/v1.47/donglai-v1.47.apk",
+  "urls": [
+    "https://ghfast.top/https://github.com/tangxueqi/donglai-notes/releases/download/v1.47/donglai-v1.47.apk",
+    "https://gh-proxy.com/https://github.com/tangxueqi/donglai-notes/releases/download/v1.47/donglai-v1.47.apk",
+    "https://github.com/tangxueqi/donglai-notes/releases/download/v1.47/donglai-v1.47.apk"
+  ],
+  "notes": "修复部分识别服务把表格按单元格逐行输出导致一条商品都认不出的问题（自动按 序号/编码/名称/数量单价金额/品牌 重组）",
+  "minCode": 1
+}
